@@ -1,0 +1,9 @@
+-- DQL  DATA QUERIE LANGUAGE
+
+-- USAR O BD
+USE Teste;
+
+-- LISTAR OS DADOS DA TABELA
+SELECT * FROM Funcionarios;
+
+SELECT * FROM Empresas;
